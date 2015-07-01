@@ -1,0 +1,66 @@
+body > div{
+	width: 100%;
+    float:left;
+    text-align: center;
+}
+
+#search {
+	width: 90%;
+}
+
+.inactiveBox {
+	color: #a1a1a1;
+	font-style: italic;
+}
+
+#access div {
+	float:left;
+	text-align: center;
+	width: 50%;
+}
+
+.emptyDiv {
+	height: 20px;
+}
+
+#results h3 {
+	text-align: left;
+}
+
+#results div {
+	text-align: left;
+}
+
+#results div > p{
+	padding: 0px;
+	font-size: small;
+}
+
+#results h3 > *{
+	padding: 5px;
+}
+
+#results .ui-gb { display: none; }
+	
+.item > *{
+	padding: 2px;
+}
+
+.buttonDiv {
+	display:none;
+}
+
+.nextPage {
+	width: 90%;
+}
+
+.message {
+	color: #D63333;
+	width: 100%;
+	text-align: center;
+}
+
+#loading {
+	display: none;
+	width: 100%;
+}
